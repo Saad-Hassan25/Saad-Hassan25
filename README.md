@@ -5,7 +5,7 @@ Junior Developer Embarking on the Coding Journey
 <img align = "right" alt = "coding" width = "400" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZzZm00ZDVtMnhjZDNzZm9pZXdwaWRhOHgzbDVmZnJheGdqb3VldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
-👋BSCS student at FAST NUCES | 6th Semester 👨‍💻 Passionate about Python, AI, Backend Development, Robotics 🌟 Constantly learning in the evolving tech world
+👋BSCS student at FAST NUCES | 8th Semester 👨‍💻 Passionate about Python, AI, Backend Development, Robotics 🌟 Constantly learning in the evolving tech world
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [msaad.hassan@outlook.com](mailto:msaad.hassan@outlook.com)

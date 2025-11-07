@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Saad Hassan
 ============================================================================================================================================
 
-Junior Developer Embarking on the Coding Journey
+Data Scientist | Python & AI Enthusiast | Problem Solver
 <img align = "right" alt = "coding" width = "400" src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGZzZm00ZDVtMnhjZDNzZm9pZXdwaWRhOHgzbDVmZnJheGdqb3VldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
-👋BSCS student at FAST NUCES | 8th Semester 👨‍💻 Passionate about Python, AI, Backend Development, Robotics 🌟 Constantly learning in the evolving tech world
+👋 BSCS graduate from FAST NUCES | Exploring data-driven intelligence and automation 👨‍💻 Passionate about Data Science, AI, Machine Learning, and Backend Development, Robotics 🌟 Constantly learning in the evolving tech world
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [msaad.hassan@outlook.com](mailto:msaad.hassan@outlook.com)
